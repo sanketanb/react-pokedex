@@ -2,6 +2,7 @@
 
 ## Objective
 Take a look at the attached pokemon image (reactPokedex). We will be creating a fun React app to create a Pokedex.
+
 ![Pokemons](./pokemons.png?raw=true)
 
 ## What is REACT?
