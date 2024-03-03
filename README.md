@@ -1,7 +1,8 @@
-## Open Source Day Project: React ##
+## Open Source Day Project: React 
 
 ## Objective
-Take a look at the pokemon image attached. We will be creating a fun React app to create a Pokedex.
+Take a look at the attached pokemon image (reactPokedex). We will be creating a fun React app to create a Pokedex.
+![Pokemons](./pokemons.png?raw=true)
 
 ## What is REACT?
 “A JavaScript library for building user interfaces"
